@@ -1,9 +1,5 @@
 const SinglePage = () => {
-    return (
-        <div>
-            Single Page
-        </div>
-    )
-}
+  return <div>Single Page</div>;
+};
 
-export default SinglePage
+export default SinglePage;
