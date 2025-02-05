@@ -7,6 +7,12 @@
     display: none;
 }
 
+select {
+    -webkit-appearance: none !important;
+    -moz-appearance: none !important;
+    appearance: none !important;
+  }
+
 .scrollbar-hide {
     scrollbar-width: none;
 }
